@@ -1,0 +1,4 @@
+1|Departamento de contabilidad
+2|Departamento de sistemas
+3|deparatamento de talento humano
+4|deparatamento de pasantes
